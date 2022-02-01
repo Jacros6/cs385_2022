@@ -3,4 +3,4 @@ https://experiments.withgoogle.com/sound-canvas
 This is a Sound Canvas project made by a Claire Kearney-Volpe, Josh Miele, Kyle Phillips, Luisa Pereira, and Yotam Mann. It provides the end user with a canvas
 which they can draw using their keyboard and mouse. While just only keyboard and mouse is simple, the creators of this project have also implemented the ability to
 draw onto the canvas using their nose via a webcam and sound using their voice. I think this is a really interesting project. I am curious to know how they were able to
-track people's noses, possibly some AI which have been trained on human faces to identifiy a nose. 
+track people's noses, possibly some machine learning algorithm which have been trained on human faces to identifiy a nose. 
